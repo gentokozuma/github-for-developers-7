@@ -4,3 +4,4 @@
 - Location: New Jersey
 - Favorite Food: Pizza
 - Hobby: Hiking
+- Favorite Color: Red
