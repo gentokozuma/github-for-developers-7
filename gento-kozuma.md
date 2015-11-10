@@ -5,3 +5,4 @@
 - Favorite Food: Pizza
 - Hobby: Hiking
 - Favorite Color: Red
+- Favorite Beer: Amber Lager
